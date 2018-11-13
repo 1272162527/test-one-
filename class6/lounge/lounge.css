@@ -1,0 +1,23 @@
+body {
+	font-family: sans-serif;
+}
+
+h1, h2 {    
+	color: gray;
+}
+
+h1 { 
+	border-bottom: 1px solid black;
+}
+
+p {
+  font-family: sans-serif;
+  color: maroon;
+}
+
+p.greentea {
+	color: green;
+}
+em {
+  font-family: serif
+}
